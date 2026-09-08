@@ -1,5 +1,12 @@
 {
   "version": 1,
   "favorites": [],
-  "history": []
+  "history": [
+    "00 Inbox/00_backlog.md",
+    "00 Inbox/02_resource_map.md",
+    "00 Inbox/01_recap.md",
+    "01 Projects/optrade/00_algos.md",
+    "01 Projects/optrade/01_epics.md",
+    "04 Ideas/00_aha.md"
+  ]
 }
